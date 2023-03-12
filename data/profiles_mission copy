@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Civilian",
+        "desig": "CIV",
+        "callsign": "VH",
+        "STS": "",
+        "FuelMod": {},
+        "WeightMod": 0
+   
+    },
+    {
+        "name": "Military",
+        "desig": "MIL",
+        "callsign": "AJAX",
+        "STS": "",
+        "FuelMod": {},
+        "WeightMod": 0
+   
+    },
+    {
+        "name": "Target Tow",
+        "desig": "MTR",
+        "callsign": "BLDK",
+        "STS": "",
+        "FuelMod": {
+            "DefaultRefuel": -300,
+            "ReserveFuel": 80
+        },
+        "WeightMod": 0
+    
+    },
+    {
+        "name": "Fire Scan",
+        "desig": "FSC",
+        "callsign": "FSCN",
+        "STS": "FFR",
+        "FuelMod": {
+            "DefaultRefuel": -300,
+            "ReserveFuel": 80
+        },
+        "WeightMod": 0
+
+    },
+    {
+        "name": "Aero-Med",
+        "desig": "AMD",
+        "callsign": "AM",
+        "STS": "MEDEVAC",
+        "FuelMod": {},
+        "WeightMod": 0
+
+    }
+]

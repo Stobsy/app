@@ -1,0 +1,16 @@
+{
+                "LoiterBurn": "0",
+                "CruiseTas": "0",
+                "ClimbTas": "0",
+                "CruiseBurn": "0",
+                "DescentBurn": "0",
+                "DescentTas": "0",
+                "ClimbRate": "0",
+                "Altitude": "0",
+                "DescentRate": "0",
+                "ClimbBurn": "0",
+                "HoldingBurn": "0",
+                "PlanTas": "0",
+                "TaxiBurn": "0",
+                "Weight": "0"
+            }

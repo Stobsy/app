@@ -1,0 +1,4 @@
+.venv/
+_pycache_/
+db/
+_test_data/

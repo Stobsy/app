@@ -1,0 +1,27 @@
+{
+    "database": "Main_002.db",
+    "aircraft": {
+        "curvesToProcess": [
+            "ClimbTas",
+            "ClimbBurn",
+            "CruiseTas",
+            "CruiseBurn",
+            "ClimbRate"
+        ],
+        "ozacftAL": "4"
+    },
+    "performance": {
+        "altitude_profile": [
+            5000.0,
+            10000.0,
+            15000.0,
+            20000.0,
+            25000.0,
+            30000.0,
+            35000.0,
+            40000.0,
+            45000.0
+        ]
+    },
+    "kml": {}
+}

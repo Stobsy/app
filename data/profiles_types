@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Learjet 35 Normal Tip Tank",
+        "ozweight": "17000",
+        "defaultPerf": 0,
+        "ozacft": {
+            "Type": "LJ35",
+            "FuelCapacity": "6238",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 35 Normal Extended Tip Tank",
+        "ozweight": "17000",
+        "defaultPerf": 0,
+        "ozacft": {
+            "Type": "LJ35",
+            "FuelCapacity": "6988",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 36 Normal Tip Tank",
+        "ozweight": "17000",
+        "defaultPerf": 0,
+        "ozacft": {
+            "Type": "LJ35",
+            "FuelCapacity": "7400",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 35 Extended Tip Tank",
+        "ozweight": "17000",
+        "defaultPerf": 0,
+        "ozacft": {
+            "Type": "LJ35",
+            "FuelCapacity": "8190",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 31",
+        "ozweight": "15500",
+        "defaultPerf": 2,
+        "ozacft": {
+            "Type": "LJ31",
+            "FuelCapacity": "4124",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 31 ER",
+        "ozweight": "15500",
+        "defaultPerf": 2,
+        "ozacft": {
+            "Type": "LJ31",
+            "FuelCapacity": "4653",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "Learjet 60",
+        "ozweight": "21000",
+        "defaultPerf": 1,
+        "ozacft": {
+            "Type": "LJ31",
+            "FuelCapacity": "21000",
+            "Manufacturer": "Bombardier"
+        }
+    },
+    {
+        "name": "KingAir B200",
+        "ozweight": "5000",
+        "defaultPerf": 4,
+        "ozacft": {
+            "Type": "B200",
+            "FuelCapacity": "3611",
+            "Manufacturer": "Beechcraft"
+        }
+    }
+]
