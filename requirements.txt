@@ -7,9 +7,8 @@ pyproj
 simplekml
 streamlit-aggrid
 exceptiongroup
-keyBERT
 geopy
-streamlit-aggrid
 st_clickable_images
 streamlit-authenticator
-geopandas
+matplotlib
+

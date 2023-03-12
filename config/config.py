@@ -9,7 +9,8 @@ import shutil
 
 def load_config_file():
     folder = os.path.dirname(os.path.realpath(__file__))
-    config_file = file_util.load_file("config", folder + "\\")
+
+    config_file = file_util.load_file("config", folder + "")
     return config_file
 
 

@@ -1,5 +1,5 @@
 {
-    "database": "2.db",
+    "database": "test1.db",
     "aircraft": {
         "curvesToProcess": [
             "ClimbTas",

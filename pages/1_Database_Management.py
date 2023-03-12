@@ -66,8 +66,8 @@ else:
     def db_view():
         st.header("Database Viewer")
 
-        here = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', ''))
-        sqlite_dbs = [file for file in os.listdir(here + "\\db\\") if file.endswith('.db')]
+        here = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'db'))
+        sqlite_dbs = [file for file in os.listdir(here) if file.endswith('.db')]
         db_filename = st.selectbox('DB Filename', sqlite_dbs)
         
         con = db_util.con_db(db_filename)

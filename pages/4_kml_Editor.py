@@ -15,7 +15,7 @@ from geopy.geocoders import ArcGIS, Nominatim
 from geopy import Point
 from util import shapeutilities
 from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
-import geopandas
+
 
 
 from util import db_util
@@ -120,7 +120,7 @@ else:
                         update_mode=GridUpdateMode.GRID_CHANGED,
                         fit_columns_on_grid_load=True ,
                         allow_unsafe_jscode=False,
-                        enable_enterprise_modules=True
+                        enable_enterprise_modules=False
                         )
             #selected = inputData['selected_rows']
             data = inputData['data']

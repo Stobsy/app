@@ -121,10 +121,10 @@ def new_db(name):
     
 
 def con_db(name):
-    folder = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'db'))
+    path = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..', 'db', name))
 
     con = None
-    path = folder + "\\" + name
+
     try:
    
         con = sqlite3.connect(path)
